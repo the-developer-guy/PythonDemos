@@ -1,5 +1,11 @@
 # PythonDemos
 
+## Arguments
+
+### basic_argv
+
+Just access the passed arguments.
+
 ## Dunder
 
 Examples for the builtin Python operators like add, iterate, etc.
