@@ -22,6 +22,8 @@ A basic iterable with a hint of match-case.
 
 SQlite3 connector class implementing context manager.
 
+Includes Exception handling shenanigans, check which print gets executed!
+
 ### Operators
 
 #### Validator
