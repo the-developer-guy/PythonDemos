@@ -16,6 +16,12 @@ Examples for the builtin Python operators like add, iterate, etc.
 
 A basic iterable with a hint of match-case.
 
+### Context manager
+
+#### sqlite_connector
+
+SQlite3 connector class implementing context manager.
+
 ### Operators
 
 #### Validator
