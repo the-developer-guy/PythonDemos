@@ -29,3 +29,11 @@ Includes Exception handling shenanigans, check which print gets executed!
 #### Validator
 
 A bus ticket with validity, done with ```__bool__```.
+
+## File
+
+### csv-dialect
+
+Have a quick look at different CSV dialects and how to manually set different delimiters and newlines.
+
+Also experiment with importing those CSVs into Excel and different apps.
