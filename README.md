@@ -10,6 +10,12 @@ Just access the passed arguments.
 
 Examples for the builtin Python operators like add, iterate, etc.
 
+### abc
+
+#### Ghost
+
+A spooky example of abstract base classes and what's allowed in Python.
+
 ### Collection
 
 #### Bucket
