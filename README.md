@@ -12,6 +12,10 @@ Examples for the builtin Python operators like add, iterate, etc.
 
 ### Collection
 
+#### Bucket
+
+An example for collection interfaces, like Iterable. "Pretty printed" tests included.
+
 #### Polygon
 
 A basic iterable with a hint of match-case.
