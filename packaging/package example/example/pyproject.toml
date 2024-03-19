@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lidar"
+version = "0.0.1"
+authors = [
+  { name="Durucz Béla", email="ping@thedeveloperguy.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/the-developer-guy/PythonDemos"
+Issues = "https://github.com/the-developer-guy/PythonDemos/issues"
