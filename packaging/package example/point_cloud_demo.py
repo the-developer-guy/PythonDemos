@@ -19,3 +19,6 @@ for point in point_cloud:
 
 print(lm.cartesian_length(0, 1, 0))
 print(cl(0, 1, 0))
+
+# Edit some __init__.py to unlock this!
+#print(lidar.cartesian_length(0, 2, 0))
