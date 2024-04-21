@@ -40,6 +40,10 @@ Includes Exception handling shenanigans, check which print gets executed!
 
 A bus ticket with validity, done with ```__bool__```.
 
+## Excel
+
+Because macros SUCK! Replace the backbone of many industries with some Python code.
+
 ## File
 
 ### csv-dialect
